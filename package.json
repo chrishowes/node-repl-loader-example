@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "node-repl-loader": "^0.0.2",
+    "node-repl-loader": "^0.0.3",
     "webpack": "^1.12.2"
   },
   "devDependencies": {},
